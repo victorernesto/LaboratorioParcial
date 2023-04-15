@@ -1,0 +1,8 @@
+C:\Users\English\Documents\c#\laboratorioN2\laboratorioN2\bin\Debug\laboratorioN2.exe.config
+C:\Users\English\Documents\c#\laboratorioN2\laboratorioN2\bin\Debug\laboratorioN2.exe
+C:\Users\English\Documents\c#\laboratorioN2\laboratorioN2\bin\Debug\laboratorioN2.pdb
+C:\Users\English\Documents\c#\laboratorioN2\laboratorioN2\obj\Debug\laboratorioN2.csproj.AssemblyReference.cache
+C:\Users\English\Documents\c#\laboratorioN2\laboratorioN2\obj\Debug\laboratorioN2.csproj.SuggestedBindingRedirects.cache
+C:\Users\English\Documents\c#\laboratorioN2\laboratorioN2\obj\Debug\laboratorioN2.csproj.CoreCompileInputs.cache
+C:\Users\English\Documents\c#\laboratorioN2\laboratorioN2\obj\Debug\laboratorioN2.exe
+C:\Users\English\Documents\c#\laboratorioN2\laboratorioN2\obj\Debug\laboratorioN2.pdb
